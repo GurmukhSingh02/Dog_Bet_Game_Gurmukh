@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dog_Bet_Game_Gurmukh", "Dog_Bet_Game_Gurmukh\Dog_Bet_Game_Gurmukh.csproj", "{2294B605-1818-462A-BE56-F924537ACCC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dog_Bet_Game_GurmukhTestCases", "Dog_Bet_Game_GurmukhTestCases\Dog_Bet_Game_GurmukhTestCases.csproj", "{CA43779A-63EB-46A0-ACA6-005509AEC7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2294B605-1818-462A-BE56-F924537ACCC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2294B605-1818-462A-BE56-F924537ACCC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2294B605-1818-462A-BE56-F924537ACCC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2294B605-1818-462A-BE56-F924537ACCC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA43779A-63EB-46A0-ACA6-005509AEC7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA43779A-63EB-46A0-ACA6-005509AEC7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA43779A-63EB-46A0-ACA6-005509AEC7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA43779A-63EB-46A0-ACA6-005509AEC7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9818439-4B89-4C2A-A373-EA4C76F5CF00}
+	EndGlobalSection
+EndGlobal
